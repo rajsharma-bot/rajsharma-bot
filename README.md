@@ -9,9 +9,9 @@ Along with testing, I explore **automation tools & frameworks** to complement QA
 
 ## 🛠️ Skills & Tools  
 
-- **Testing Types:** Functional, Regression, UAT, Cross-browser  
-- **Test Management:** JIRA, TestRail  
-- **API Testing:** Postman (Collections, Assertions)  
+- **Testing Types:** Functional, Regression, UAT, Cross-browser, Smoke, Sanity  
+- **Test Management:** JIRA, Tcs MasterCraft dev tool, TeamForge  
+- **API Testing:** Postman  
 - **Database Validation:** MySQL (basic queries)  
 - **Collaboration:** Agile/Scrum, Defect Tracking, Reporting  
 - **Learning/Exposure:** Selenium, Java, TestNG, Maven  
@@ -30,7 +30,7 @@ Sample automation framework using Selenium + Java + TestNG.
 
 ### [PinSystem] (*Internal Project*)  
 *(Proprietary project – not publicly available)*  
-Worked as the **sole QA owner** for an internal financial system.  
+Worked as the **sole QA owner** for an media Planning & media finance system.  
 - Created and executed 300+ test cases  
 - Designed regression & UAT strategy  
 - Contributed to automation feasibility and framework setup  
