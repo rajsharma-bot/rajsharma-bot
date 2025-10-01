@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋, I'm Raj Sharma  
 
-<!--
-**rajsharma-bot/rajsharma-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Quality Assurance Professional | Focused on Software Testing & Improvement**  
 
-Here are some ideas to get you started:
+I specialize in **testing web and API applications**, with experience in functional, regression, and end-to-end testing.  
+Along with testing, I explore **automation tools & frameworks** to complement QA efforts and improve efficiency.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools  
+
+- **Testing Types:** Functional, Regression, UAT, Cross-browser  
+- **Test Management:** JIRA, TestRail  
+- **API Testing:** Postman (Collections, Assertions)  
+- **Database Validation:** MySQL (basic queries)  
+- **Collaboration:** Agile/Scrum, Defect Tracking, Reporting  
+- **Learning/Exposure:** Selenium, Java, TestNG, Maven  
+
+---
+
+## 📂 Projects  
+
+### [SauceWebAutomation](https://github.com/rajsharma-bot/SauceWebAutomation)  
+Sample automation framework using Selenium + Java + TestNG.  
+- Designed to test login, add-to-cart, and checkout scenarios  
+- Implements **Page Object Model (POM)**  
+- Generates execution reports  
+
+---
+
+### [PinSystem] (*Internal Project*)  
+*(Proprietary project – not publicly available)*  
+Worked as the **sole QA owner** for an internal financial system.  
+- Created and executed 300+ test cases  
+- Designed regression & UAT strategy  
+- Contributed to automation feasibility and framework setup  
+
+---
+
+## 📊 GitHub Stats  
+
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajsharma-bot&show_icons=true&theme=tokyonight)  
+
+---
+
+## 📫 Connect with me  
+
+- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/rajsharma](#)
