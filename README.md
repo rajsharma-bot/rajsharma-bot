@@ -45,5 +45,5 @@ Worked as the **sole QA owner** for an internal financial system.
 
 ## 📫 Connect with me  
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/rajsharma](#)
+- 📧 Email: rajsharma.9331@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/rajsharma07](#)
